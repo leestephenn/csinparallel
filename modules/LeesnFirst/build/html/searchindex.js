@@ -1,0 +1,1 @@
+Search.setIndex({envversion:42,terms:{},objtypes:{},objnames:{},filenames:["index"],titles:["Welcome to LeesnFirst"],objects:{},titleterms:{leesnfirst:0,welcom:0}})
